@@ -4,7 +4,8 @@
 
 This Repo contains KAN (Kolmogorov Arnold Networks) exploration and Integration with YOLO family model.
 
-
+KAN Network
+![KAN_network](./assets/KAN_network.png)
 ## TODO:
 - [ ] YoloV8 with KAN
 - [ ] YoloV11 with KAN
