@@ -1,0 +1,9 @@
+#python3.10
+matplotlib
+numpy
+scikit_learn
+setuptools
+sympy
+torch
+tqdm
+torchvision
